@@ -1,0 +1,1 @@
+FizzBuzz file is a counter that puts the word "FizzBuzz" in every multiple of 3. 
